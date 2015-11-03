@@ -1,0 +1,28 @@
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\Brick Breaker.exe
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\Brick Breaker.pdb
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.exe
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\obj\x86\Debug\Brick Breaker.pdb
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Ball.xnb
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Brick.xnb
+E:\Visual Studio 2013\Brick Breaker\Brick Breaker\bin\Windows\Debug\Content\Paddle.xnb
